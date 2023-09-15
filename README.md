@@ -3,6 +3,7 @@ This Repository contains the successfully completed tasks of LEVEL 1 as a part o
 *******************************
 # TASK 1.LANDING PAGE 
 Live Demo :https://github.com/Avantikagondal/OIBGRIP/blob/main/TASK%201.LANDING%20PAGE/index.html
+https://Avantikagondal.github.io/OIBGRIP/TASK 1.LANDING PAGE/index.html
 *******************************
 *******************************
 # TASK 2.PORTFOLIO WEBSITE
