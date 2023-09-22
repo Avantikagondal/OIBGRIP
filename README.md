@@ -8,5 +8,5 @@ live demo: https://avantikagondal.github.io/OIBGRIP/TASK%201.LANDING%20PAGE/inde
 live demo: https://avantikagondal.github.io/OIBGRIP/TASK%202.PORTFOLIO%20WEBSITE/index.html
 *******************************
 # TASK 3.TEMPERATURE CONVERTER
-live demo : 
+live demo: https://avantikagondal.github.io/OIBGRIP/TASK%203.TEMPERATURE%20CONVERTER/html.html
 *******************************
